@@ -1,2 +1,3 @@
-# c-dsa-practice
-My practice programs and implementations while learning C and Data Structures &amp; Algorithms.
+# C DSA Practice
+
+This repository contains my practice programs while learning C and Data Structures & Algorithms.
