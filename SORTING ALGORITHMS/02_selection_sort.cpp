@@ -8,7 +8,7 @@ int main()
         scanf("%d",&arr[i]);
     }
 
-    for(i=0;i<4;i++)
+    for(i=0;i<4;i++)  
     {
         min=i;
         for(j=i+1;j<5;j++)
@@ -19,7 +19,7 @@ int main()
             }
 
         }
-        temp=arr[i];
+        temp=arr[i];  
         arr[i]=arr[min];
         arr[min]=temp;
     }
